@@ -1,0 +1,37 @@
+_repo: Old-Country-Life_48522
+contributor:
+  illustrators:
+  - agent_name: Bedford, F. D.
+    alias: Bedford, Francis Donkin
+    birthdate: 1864
+    deathdate: 1954
+    gutenberg_agent_id: '32158'
+    url: http://www.gutenberg.org/2009/agents/32158
+  - agent_name: Parkinson, W.
+    gutenberg_agent_id: '44833'
+    url: http://www.gutenberg.org/2009/agents/44833
+  - agent_name: Masey, F.
+    gutenberg_agent_id: '44834'
+    url: http://www.gutenberg.org/2009/agents/44834
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Baring-Gould, Sabine
+    - Gould, Sabine Baring
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2015-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Old Country Life
+url: http://www.gutenberg.org/ebooks/48522
