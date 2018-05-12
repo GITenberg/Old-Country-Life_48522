@@ -1,4 +1,5 @@
 _repo: Old-Country-Life_48522
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Bedford, F. D.
@@ -13,6 +14,9 @@ contributor:
   - agent_name: Masey, F.
     gutenberg_agent_id: '44834'
     url: http://www.gutenberg.org/2009/agents/44834
+covers:
+- cover_type: archival
+  image_path: 48522-h/images/cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -25,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48522#Old-Country-Life
 gutenberg_issued: '2015-03-18'
 gutenberg_type: Text
 identifiers:
